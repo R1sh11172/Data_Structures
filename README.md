@@ -1,2 +1,2 @@
 # Data_Structures
-Implementations of various Data Structures
+Java implementations of various Data Structures
