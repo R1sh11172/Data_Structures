@@ -1,2 +1,2 @@
 # Data_Structures
-Implementations of Data Structures
+Implementations of various Data Structures
