@@ -131,7 +131,7 @@ public class MyDoublyLinkedList {
 		previous.next = nextDoublyNode;
 		nextDoublyNode.prev = previous;
 	}
-
+	//method to print list
 	public void printLinkedList(DoublyListNode head) {
 		DoublyListNode temp = head;
 		while (temp != null) {
