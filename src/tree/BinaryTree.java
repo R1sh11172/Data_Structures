@@ -63,7 +63,7 @@ public class BinaryTree {
 	    }
 	}
 	
-	public void bfs() { //breadth-first search
+	public void bfs() { //breadth-first se
 		if (root != null) {
 			Queue<TreeNode> nodes = new LinkedList<>();
 			nodes.add(root); 
